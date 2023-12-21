@@ -1,8 +1,9 @@
-# React + Vite
+# Clima App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta aplicacion hecha en React mediante un combo box permite elegir una ciudad y ver el clima.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para correrla correr los siguientes comandos:
+- cd clima-app
+- npm init
+- npm run dev
+  
